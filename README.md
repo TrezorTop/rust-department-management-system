@@ -21,11 +21,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/TrezorTop/rust-department-management-system.git
 ```
 2. Navigate to the cloned repository
 ```bash
-cd your-repository
+cd rust-department-management-system
 ```
 3. Build the project
 ```bash
