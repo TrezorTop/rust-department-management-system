@@ -1,6 +1,6 @@
 # Rust Department Management System
 
-This project is a simple command-line application written in Rust. It allows you to manage a department system where you can add and remove people from departments and list all people in a department or in all departments.
+This is a command-line application written in Rust that allows you to manage a department system. You can add or remove people from departments and list all people in a department or in all departments. The project was created as part of a Rust learning journey, serving as a practical way to understand and apply new concepts such as Rust's ownership, borrowing, and lifetimes, as well as its powerful enum and match features.
 
 ## Features
 
